@@ -1,0 +1,21 @@
+Total number of Cracks Identified : 6
+Total number of Missing Rivets Identified : 3
+Total number of Damaged Rivets Identified : 0
+Total number of Rust Identified : 0
+
+Cracks Confidence_Score
+1 		 0.617612
+2 		 0.546141
+3 		 0.6035900000000001
+4 		 0.7728379999999999
+5 		 0.9224540000000001
+6 		 0.475882
+
+Damaged_Rivets Confidence_Score
+
+Missing_Rivets Confidence_Score
+1 		 0.7034640000000001
+2 		 0.735454
+3 		 0.801229
+
+Rusts Confidence_Score
